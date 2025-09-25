@@ -18,7 +18,7 @@
  ### Android Studioのインストール方法と実行方法
   - Android StudioをPCにダウンロード,インストールする
   - https://github.com/sakashita100/RLSS_Android-Studio_gadget
-    にソースコードがある
+    にソースコードがあってREADME.mdに方法が書いてあります
 
  
 

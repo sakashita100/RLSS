@@ -20,5 +20,8 @@
   - https://github.com/sakashita100/RLSS_Android-Studio_gadget
     にソースコードがあってREADME.mdに方法が書いてあります
 
+  - 実行方法について
+  - アンドロイドスマートフォンを開発者モードにする
+  - 
  
 
